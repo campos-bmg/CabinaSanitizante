@@ -8,31 +8,32 @@ El principio de uso de estas cabinas tiene sus orígenes de uso para la desconta
 El grupo de sistemas 601, durante las clases virtuales en confinamiento se realizó una serie de proyectos internos de los cuales derivó la creación de un prototipo de aplicación de gel automatizado el cual ha provocado en el alumnado el interés de desarrollar este tipo de solución más a fondo implementando así una cabina de sanitización.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91045702/143214079-243df342-1703-4846-96ee-f3e85b25f235.jpeg" />
+  <img src="https://user-images.githubusercontent.com/91045702/143322685-52b9ff01-9024-4344-b265-e19e2c7b5076.jpeg" />
   </p>
  
 Dispensador de Alcohol para Manos: https://drive.google.com/file/d/1TbbPpBD3iBXsFh3r_fQAk8rUYikZVc35/view?usp=sharing
 
 ---
-## Objetivo General 🎯📈
+## Objetivo General 🎯
 Crear una cabina sanitizante funcional de relativo **“bajo costo”**, la cual pueda llegar a ser aplicada al menos en la entrada de la universidad como uno de los métodos de reducción de riesgos ante la amenaza de la pandemia Covid-19.
 
 Dicha cabina se pretende proporcionar mediante aspersores, la aplicación del líquido desinfectante detectara mediante sensores a la persona que pretende ingresar, al igual detectara mediante sensores especiales la presencia de la palma de la mano para la aplicación de gel antibacterial de forma automatizada, facilitando ese trabajo al guardia de seguridad y prevenir cualquier contagio.
 
 ---
-## Justificación
+## Justificación 🛠 
 El propósito técnico del dispositivo es detectar personal de ingreso y guiarlo en el proceso de desinfección de una manera lógica secuencial, buscando economizar el material empleado en esta labor mediante técnicas de dispersión del material, de esta forma es posible reducir los costos de operación y que el personal de seguridad de la entrada pueda realizar alguna otra función que requiera su atención.
   
  ---
- ## Distribución de Equipos  👨🏽‍💻📅
-**Líder de proyecto**
+ ## Distribución de Equipos 📅
+ 
+**Líder de proyecto** 🏆
 - Mario Pérez Santiago
 
-**Proyect Manager**
+**Proyect Manager** 👨‍💻
 - José Alfredo Montes Paredes --- ***Líder***
 - Karyme Monserrat Libreros Galván --- ***Sublíder**
 
-**Equipo de Gestión de Tecnologías**
+**Equipo de Gestión de Tecnologías**  ![image](https://user-images.githubusercontent.com/91045702/143323509-ec854cc9-ef5e-455c-8a0d-2e0ffdc3e25b.png)
 - Guillermo Giovanni Campos Pérez --- ***Líder***
 - Rubén Alexis Rodríguez Moreno --- ***Sublíder***
 - Ricardo Cruz Cruz
@@ -40,7 +41,7 @@ El propósito técnico del dispositivo es detectar personal de ingreso y guiarlo
 - María del Cielo Rodríguez Huesca
 - Jean Paul Álvarez Hernández
 
-**Equipo de Administración de Información**
+**Equipo de Administración de Información** ![image](https://user-images.githubusercontent.com/91045702/143323651-4116c655-e73c-4663-b9d1-b85d1c030cac.png)
 - Lizbeth Elston Cordova --- ***Líder***
 - Alexis Gustavo Cueto --- ***Sublíder***
 - Estela Valentín Llinas
