@@ -22,7 +22,10 @@ Desde el incio de la pandemia se han venido desarrollando esgtrategias con el fi
  
  **Equipo de Administración de Información**
  
-[![watch tje video](https://user-images.githubusercontent.com/91045702/143197054-426a81dd-fde0-48a2-823d-d96c3d339b12.PNG)](https://drive.google.com/file/d/1WxEyeIh8FiGWC89cCVfUq0ZlsN3E9jBh/view?usp=sharing)
+---
+
+[![Whatch the video](https://user-images.githubusercontent.com/91045702/143198219-1225fa21-8c13-4241-86e1-bc576c328eb5.PNG)](https://drive.google.com/file/d/1WxEyeIh8FiGWC89cCVfUq0ZlsN3E9jBh/view?usp=sharing)
+
 
 
 
