@@ -15,20 +15,44 @@ El grupo de sistemas 601, durante las clases virtuales en confinamiento se reali
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91045702/143193558-52daabf2-9bd1-4071-8ec5-48d0e30f4f37.png" />
+  <img src="https://user-images.githubusercontent.com/91045702/143214079-243df342-1703-4846-96ee-f3e85b25f235.jpeg" />
   </p>
+ 
+Dispensador de Alcohol para Manos: https://drive.google.com/file/d/1TbbPpBD3iBXsFh3r_fQAk8rUYikZVc35/view?usp=sharing
   
  ---
  ## Planeación
- 
- **Líder de Proyecto**
- 
- **Proyect Manager**
- 
- **Equipo de Gestión de Tecnologías**
- 
- **Equipo de Administración de Información**
- 
+**Líder de proyecto**
+- Mario Pérez Santiago
+
+**Proyect Manager**
+- José Alfredo Montes Paredes --- ***Líder***
+- Karyme Monserrat Libreros Galván --- ***Sublíder**
+
+**Equipo de Gestión de Tecnologías**
+- Guillermo Giovanni Campos Pérez --- ***Líder***
+- Rubén Alexis Rodríguez Moreno --- ***Sublíder***
+- Ricardo Cruz Cruz
+- Edgardo Kaled Libreros Galván
+- María del Cielo Rodríguez Huesca
+- Jean Paul Álvarez Hernández
+
+**Equipo de Administración de Información**
+- Lizbeth Elston Cordova --- ***Líder***
+- Alexis Gustavo Cueto --- ***Sublíder***
+- Estela Valentín Llinas
+- Yhael Andrés Muñoz Martines
+-Ángel Joatzin Fonseca González
+- Gabriel Armando Martínez Aguilar.
+- Gabriel Alejandro Reyes Castro
+- Yahir Gamboa Rosas
+- Eduardo Márquez Prisciliano
+- Miguel Murrieta Parra
+- José Uriel Salas Valencia.
+- Ángel Coatzin Fonseca Gonzales
+- Yahel Andrés Muñoz Martínez
+- Marco Antonio Egay Martínez Mendoza
+
 ---
 
 [![Whatch the video](https://user-images.githubusercontent.com/91045702/143198219-1225fa21-8c13-4241-86e1-bc576c328eb5.PNG)](https://drive.google.com/file/d/1WxEyeIh8FiGWC89cCVfUq0ZlsN3E9jBh/view?usp=sharing)
