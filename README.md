@@ -45,16 +45,13 @@ El propósito técnico del dispositivo es detectar personal de ingreso y guiarlo
 - Lizbeth Elston Cordova --- ***Líder***
 - Alexis Gustavo Cueto --- ***Sublíder***
 - Estela Valentín Llinas
-- Yhael Andrés Muñoz Martines
--Ángel Joatzin Fonseca González
+- Ángel Joatzin Fonseca González
 - Gabriel Armando Martínez Aguilar.
 - Gabriel Alejandro Reyes Castro
 - Yahir Gamboa Rosas
 - Eduardo Márquez Prisciliano
 - Miguel Murrieta Parra
 - José Uriel Salas Valencia.
-- Ángel Coatzin Fonseca Gonzales
-- Yahel Andrés Muñoz Martínez
 - Marco Antonio Egay Martínez Mendoza
 
 ---
