@@ -1,5 +1,9 @@
 # Cabina Sanitizante Automático con Dispensador de Gel
 
+> Proyecto vertical destinado a la creación de una cabina sanitizante que ayude a mitigar el contagio entre la comunidad UGMEX campus Veracruz, en combinación con la puesta en marcha de una estructura de trabajo al estilo proyecto informático con la finalidad de darle al alumno la oportunidad de practicar sus habilidades directivas, habilidades técnicas y conocimiento de las opciones que puede ofrecer la carrera en cada uno de sus niveles.
+
+
+
 ## Antecedentes 📜
 Desde el inicio de la pandemia del SARS-CoV-2 se han venido desarrollando estrategias con el fin de reducir la transmisión del virus, causante del distanciamiento físico, protección personal, lavado de manos, uso de desinfectantes.
 
