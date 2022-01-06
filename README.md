@@ -11,9 +11,11 @@ El grupo de sistemas 601, durante las clases virtuales en confinamiento se reali
   <img src="https://user-images.githubusercontent.com/91045702/143322685-52b9ff01-9024-4344-b265-e19e2c7b5076.jpeg" />
   </p>
  
-                                            Dispensador de Alcohol para Manos: 
-                                            
-                    https://drive.google.com/file/d/1TbbPpBD3iBXsFh3r_fQAk8rUYikZVc35/view?usp=sharing
+ Dispensador de Alcohol para Manos: https://drive.google.com/file/d/1TbbPpBD3iBXsFh3r_fQAk8rUYikZVc35/view?usp=sharing
+ 
+
+
+
 
 ---
 ## Objetivo General 🎯
