@@ -84,7 +84,7 @@ campus en caso de ser requerido.
 ## Página Web
 ![Captura](https://user-images.githubusercontent.com/91045702/148367612-e47a92ba-4c41-40db-8f06-445f1fd19139.PNG)
 
-                                    http://go2track.com/UGMEX/Investigacion.html
+                          http://go2track.com/UGMEX/Investigacion.html
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91045702/148366983-ecc47497-f0f4-4f1c-b48d-40f3f32f060a.PNG" />
