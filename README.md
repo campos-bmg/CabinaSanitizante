@@ -9,6 +9,21 @@
 
 ## Justificación 🛠 
 > El propósito técnico del dispositivo es detectar personal de ingreso y guiarlo en el proceso de desinfección de una manera lógica secuencial, buscando economizar el material empleado en esta labor mediante técnicas de dispersión del material, de esta forma es posible reducir los costos de operación y que el personal de seguridad de la entrada pueda realizar alguna otra función que requiera su atención.
+
+## Beneficios del proyecto 👌
+
+• Consolida a la UGMEX campus Veracruz como una institución
+comprometida con el cuidado de la salud de toda su comunidad.
+
+• Da un aliciente motivacional al desarrollo de tecnologías por
+parte de los alumnos dentro de la institución.
+
+• Coloca a la institución como una universidad preocupada por el
+crecimiento tecnológico de la región.
+
+• Permite que el proyecto pueda ser replicado en los diferentes
+campus en caso de ser requerido.
+  
   
 ## Antecedentes del Proyecto📜
 > Desde el inicio de la pandemia del SARS-CoV-2 se han venido desarrollando estrategias con el fin de reducir la transmisión del virus, causante del distanciamiento físico, protección personal, lavado de manos, uso de desinfectantes.
@@ -54,14 +69,22 @@
 - Marco Antonio Egay Martínez Mendoza
 - Ricardo Cruz Cruz
 
+---
 ## Diseño 3D
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91045702/148363853-a9ebcd92-a13b-47cf-98ec-8945e5708421.jpeg" />
   </p>
 
+---
 ## Visualización del Proyecto 📺 
 
 [![Whatch the video](https://user-images.githubusercontent.com/91045702/148362075-b1819b58-c6b5-4069-bcc1-2f31ebd450d1.PNG)](https://drive.google.com/file/d/10rCpoYRdgZUTgfqA4zWIM-YjpQmfnRjn/view?usp=sharing)
+
+---
+## Página Web
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91045702/148366983-ecc47497-f0f4-4f1c-b48d-40f3f32f060a.PNG" />
+  </p>
 
 
 
