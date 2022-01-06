@@ -54,9 +54,14 @@
 - Marco Antonio Egay Martínez Mendoza
 - Ricardo Cruz Cruz
 
+## Diseño 3D
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91045702/148363853-a9ebcd92-a13b-47cf-98ec-8945e5708421.jpeg" />
+  </p>
+
 ## Visualización del Proyecto 📺 
 
-[![Whatch the video](https://user-images.githubusercontent.com/91045702/148362075-b1819b58-c6b5-4069-bcc1-2f31ebd450d1.PNG)](https://drive.google.com/file/d/1c6lvp_-DQGTHMQcZm91hQRdmNTHGBVH5/view?usp=sharing)
+[![Whatch the video](https://user-images.githubusercontent.com/91045702/148362075-b1819b58-c6b5-4069-bcc1-2f31ebd450d1.PNG)](https://drive.google.com/file/d/10rCpoYRdgZUTgfqA4zWIM-YjpQmfnRjn/view?usp=sharing)
 
 
 
