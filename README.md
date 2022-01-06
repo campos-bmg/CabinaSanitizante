@@ -8,14 +8,10 @@ El principio de uso de estas cabinas tiene sus orígenes de uso para la desconta
 El grupo de sistemas 601, durante las clases virtuales en confinamiento se realizó una serie de proyectos internos de los cuales derivó la creación de un prototipo de aplicación de gel automatizado el cual ha provocado en el alumnado el interés de desarrollar este tipo de solución más a fondo implementando así una cabina de sanitización.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91045702/143322685-52b9ff01-9024-4344-b265-e19e2c7b5076.jpeg" />
+  <img src="https://user-images.githubusercontent.com/91045702/148352351-5ae639aa-709b-4906-9771-4f1a435af820.jpeg" />
   </p>
  
  Dispensador de Alcohol para Manos: https://drive.google.com/file/d/1TbbPpBD3iBXsFh3r_fQAk8rUYikZVc35/view?usp=sharing
- 
-
-
-
 
 ---
 ## Objetivo General 🎯
