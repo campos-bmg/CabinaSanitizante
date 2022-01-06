@@ -12,16 +12,16 @@
 
 ## Beneficios del proyecto 👌
 
-• Consolida a la UGMEX campus Veracruz como una institución
+> • Consolida a la UGMEX campus Veracruz como una institución
 comprometida con el cuidado de la salud de toda su comunidad.
 
-• Da un aliciente motivacional al desarrollo de tecnologías por
+> • Da un aliciente motivacional al desarrollo de tecnologías por
 parte de los alumnos dentro de la institución.
 
-• Coloca a la institución como una universidad preocupada por el
+> • Coloca a la institución como una universidad preocupada por el
 crecimiento tecnológico de la región.
 
-• Permite que el proyecto pueda ser replicado en los diferentes
+> • Permite que el proyecto pueda ser replicado en los diferentes
 campus en caso de ser requerido.
   
   
