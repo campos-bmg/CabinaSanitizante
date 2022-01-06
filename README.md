@@ -2,7 +2,17 @@
 
 > Proyecto vertical destinado a la creación de una cabina sanitizante que ayude a mitigar el contagio entre la comunidad UGMEX campus Veracruz, en combinación con la puesta en marcha de una estructura de trabajo al estilo proyecto informático con la finalidad de darle al alumno la oportunidad de practicar sus habilidades directivas, habilidades técnicas y conocimiento de las opciones que puede ofrecer la carrera en cada uno de sus niveles.
 
+---
+## Objetivo General 🎯
+> Crear una cabina sanitizante funcional de relativo **“bajo costo”**, la cual pueda llegar a ser aplicada al menos en la entrada de la universidad como uno de los métodos de reducción de riesgos ante la amenaza de la pandemia Covid-19.
 
+> Dicha cabina se pretende proporcionar mediante aspersores, la aplicación del líquido desinfectante detectara mediante sensores a la persona que pretende ingresar, al igual detectara mediante sensores especiales la presencia de la palma de la mano para la aplicación de gel antibacterial de forma automatizada, facilitando ese trabajo al guardia de seguridad y prevenir cualquier contagio.
+
+---
+## Justificación 🛠 
+> El propósito técnico del dispositivo es detectar personal de ingreso y guiarlo en el proceso de desinfección de una manera lógica secuencial, buscando economizar el material empleado en esta labor mediante técnicas de dispersión del material, de esta forma es posible reducir los costos de operación y que el personal de seguridad de la entrada pueda realizar alguna otra función que requiera su atención.
+  
+---
 
 ## Antecedentes 📜
 > Desde el inicio de la pandemia del SARS-CoV-2 se han venido desarrollando estrategias con el fin de reducir la transmisión del virus, causante del distanciamiento físico, protección personal, lavado de manos, uso de desinfectantes.
@@ -17,16 +27,7 @@
  
  Dispensador de Alcohol para Manos: https://drive.google.com/file/d/1TbbPpBD3iBXsFh3r_fQAk8rUYikZVc35/view?usp=sharing
 
----
-## Objetivo General 🎯
-> Crear una cabina sanitizante funcional de relativo **“bajo costo”**, la cual pueda llegar a ser aplicada al menos en la entrada de la universidad como uno de los métodos de reducción de riesgos ante la amenaza de la pandemia Covid-19.
 
-> Dicha cabina se pretende proporcionar mediante aspersores, la aplicación del líquido desinfectante detectara mediante sensores a la persona que pretende ingresar, al igual detectara mediante sensores especiales la presencia de la palma de la mano para la aplicación de gel antibacterial de forma automatizada, facilitando ese trabajo al guardia de seguridad y prevenir cualquier contagio.
-
----
-## Justificación 🛠 
-> El propósito técnico del dispositivo es detectar personal de ingreso y guiarlo en el proceso de desinfección de una manera lógica secuencial, buscando economizar el material empleado en esta labor mediante técnicas de dispersión del material, de esta forma es posible reducir los costos de operación y que el personal de seguridad de la entrada pueda realizar alguna otra función que requiera su atención.
-  
  ---
  ## Distribución de Equipos 📅
  
