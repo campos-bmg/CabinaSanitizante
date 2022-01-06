@@ -1,4 +1,4 @@
-# Cabina Sanitizante con Dispensador de Gel Automático
+# Cabina Sanitizante Automático con Dispensador de Gel
 
 ## Antecedentes 📜
 Desde el inicio de la pandemia del SARS-CoV-2 se han venido desarrollando estrategias con el fin de reducir la transmisión del virus, causante del distanciamiento físico, protección personal, lavado de manos, uso de desinfectantes.
