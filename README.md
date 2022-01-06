@@ -54,14 +54,9 @@
 - Marco Antonio Egay Martínez Mendoza
 - Ricardo Cruz Cruz
 
+## Visualización del Proyecto 📺 
 
-
-
-
----
-## Video de Presentación 📺 
-
-[![Whatch the video](https://user-images.githubusercontent.com/91045702/143198219-1225fa21-8c13-4241-86e1-bc576c328eb5.PNG)](https://drive.google.com/file/d/1WxEyeIh8FiGWC89cCVfUq0ZlsN3E9jBh/view?usp=sharing)
+[![Whatch the video](https://user-images.githubusercontent.com/91045702/148362075-b1819b58-c6b5-4069-bcc1-2f31ebd450d1.PNG)](https://drive.google.com/file/d/1c6lvp_-DQGTHMQcZm91hQRdmNTHGBVH5/view?usp=sharing)
 
 
 
